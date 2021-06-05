@@ -1,0 +1,17 @@
+﻿  Source.cpp
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(32,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(38,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(46,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(52,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(59,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(65,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\help.h(71,24): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(536,8): warning C4804: '%': unsafe use of type 'bool' in operation
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(562,8): warning C4804: '%': unsafe use of type 'bool' in operation
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(790,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(1047,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(1049,16): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(1059,6): warning C4101: 'starting': unreferenced local variable
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(506): warning C4715: 'isdestroyergem': not all control paths return a value
+F:\University\1st semester\Itc final project\Bejeweled game itc project\Bejeweled game itc project\Source.cpp(495): warning C4715: 'isflaminggem': not all control paths return a value
+  Bejeweled game itc project.vcxproj -> F:\University\1st semester\Itc final project\Bejeweled game itc project\Debug\Bejeweled game itc project.exe
